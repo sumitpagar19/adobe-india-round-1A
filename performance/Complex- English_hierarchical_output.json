@@ -1,0 +1,36 @@
+{
+    "title": "This is a test document for BERT model triggering.",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "The text uses a consistent font size to avoid heading classification.",
+            "page": 0,
+            "outline": []
+        },
+        {
+            "level": "H1",
+            "text": "No bold or larger fonts are used in this document.",
+            "page": 0,
+            "outline": []
+        },
+        {
+            "level": "H1",
+            "text": "This should force the pipeline to use the BERT model.",
+            "page": 0,
+            "outline": []
+        },
+        {
+            "level": "H1",
+            "text": "The rule-based classifier should detect zero headings.",
+            "page": 0,
+            "outline": [
+                {
+                    "level": "H2",
+                    "text": "This ensures the BERT model is triggered for testing.",
+                    "page": 0,
+                    "outline": []
+                }
+            ]
+        }
+    ]
+}

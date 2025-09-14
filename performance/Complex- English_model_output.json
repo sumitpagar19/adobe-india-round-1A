@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "label": "section-title",
+        "parent_id": 0,
+        "order": 1,
+        "confidence": 0.7666808366775513,
+        "text": "This is a test document for BERT model triggering.",
+        "gt_text": "",
+        "box": [
+            72.0,
+            74.3191088000001,
+            338.6631270400001,
+            86.27430880000009
+        ],
+        "page": 0,
+        "heading_level": "h1"
+    },
+    {
+        "id": 2,
+        "label": "section-title",
+        "parent_id": 0,
+        "order": 1,
+        "confidence": 0.5884299278259277,
+        "text": "The text uses a consistent font size to avoid heading classification.",
+        "gt_text": "",
+        "box": [
+            72.0,
+            88.76510880000001,
+            412.2641203200001,
+            100.7203088
+        ],
+        "page": 0,
+        "heading_level": "h1"
+    },
+    {
+        "id": 3,
+        "label": "section-title",
+        "parent_id": 0,
+        "order": 1,
+        "confidence": 0.42840978503227234,
+        "text": "No bold or larger fonts are used in this document.",
+        "gt_text": "",
+        "box": [
+            72.0,
+            103.21110880000003,
+            329.08701184,
+            115.16630880000002
+        ],
+        "page": 0,
+        "heading_level": "h1"
+    },
+    {
+        "id": 4,
+        "label": "section-title",
+        "parent_id": 0,
+        "order": 1,
+        "confidence": 0.8539191484451294,
+        "text": "This should force the pipeline to use the BERT model.",
+        "gt_text": "",
+        "box": [
+            72.0,
+            117.65710880000006,
+            353.30107392,
+            129.61230880000005
+        ],
+        "page": 0,
+        "heading_level": "h1"
+    },
+    {
+        "id": 6,
+        "label": "section-title",
+        "parent_id": 0,
+        "order": 1,
+        "confidence": 0.5339242815971375,
+        "text": "The rule-based classifier should detect zero headings.",
+        "gt_text": "",
+        "box": [
+            72.0,
+            146.54810880000002,
+            343.5193292800001,
+            158.5033088
+        ],
+        "page": 0,
+        "heading_level": "h1"
+    },
+    {
+        "id": 7,
+        "label": "section-title",
+        "parent_id": 0,
+        "order": 2,
+        "confidence": 0.7871071100234985,
+        "text": "This ensures the BERT model is triggered for testing.",
+        "gt_text": "",
+        "box": [
+            72.0,
+            160.99410880000005,
+            347.89732352000004,
+            172.94930880000004
+        ],
+        "page": 0,
+        "heading_level": "h2"
+    }
+]
